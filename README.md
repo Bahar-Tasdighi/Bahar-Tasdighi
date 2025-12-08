@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bahareh Tasdighi
 - 👀 I’m interested in algorithms and computation, machine learning, reinforcement learning and computer security :) ...
-- 🌱 I’m currently a PhD student at SDU university and im working on model free reinforcement learning algorithms ...
+- 🌱 I’m currently hold a PhD degree in computer science-Reinforcement leanring from University of Southern Denmark(SDU)
 - 📫 How to reach me : you can easily contact me with my email address "bahartasdighi1990@gmail.com"
 
 <!---
